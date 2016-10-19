@@ -1,4 +1,4 @@
-# Fosscomm - Shellshock Labs 
+# Shellshock Lab 
 
 This repo was created to make available the Vulnerable Applications and configurations I used while writing the "Command and Shellcode Injection Scenarios with Commix and Shellter"
 
